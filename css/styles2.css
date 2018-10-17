@@ -1,0 +1,12 @@
+div  h2 {
+  color: #6495ED;
+}
+
+h2{
+  border: 3px solid black;
+}
+
+ul li {
+  color: black
+  background-color: red
+}
